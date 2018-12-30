@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "homebridge-relays-delay",
+        "scope": null,
+        "escapedName": "homebridge-relays-delay",
+        "name": "homebridge-relays-delay",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/pi"
+    ]
+  ],
+  "_from": "homebridge-relays@latest",
+  "_id": "homebridge-relays@0.0.1",
+  "_inCache": true,
+  "_location": "/homebridge-relays-delay",
+  "_nodeVersion": "8.9.4",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/homebridge-relays_0.0.1_1519507995700_0.09769792196519389"
+  },
+  "_npmUser": {
+    "name": "praita",
+    "email": "p.raita@yandex.com"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "homebridge-relays-delay",
+    "scope": null,
+    "escapedName": "homebridge-relays-delay",
+    "name": "homebridge-relays-delay",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/homebridge-relays/-/homebridge-relays-0.0.1.tgz",
+  "_shasum": "1af964228ffbc47b585ff2fe8fa95ceeecd0bb84",
+  "_shrinkwrap": null,
+  "_spec": "homebridge-relays-delay",
+  "_where": "/home/pi",
+  "author": {
+    "name": "Paul Raita"
+  },
+  "bugs": {
+    "url": "https://github.com/Paulraita/homebridge-relays/issues"
+  },
+  "dependencies": {
+    "request": "^2.65.0",
+    "rpio": "^0.9.12"
+  },
+  "description": "Raspberry Pi relay plugin for homebridge: https://github.com/nfarina/homebridge",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-WBHOvM9FXYOa6dlG8O3J55o1Gh5BaB7GXJk5fRUtJBPXbAqEoA0i4vTHc1aAaypTAw5f1o0wXnW5IC8DHJ9L3w==",
+    "shasum": "1af964228ffbc47b585ff2fe8fa95ceeecd0bb84",
+    "tarball": "https://registry.npmjs.org/homebridge-relays/-/homebridge-relays-0.0.1.tgz",
+    "fileCount": 5,
+    "unpackedSize": 4050
+  },
+  "engines": {
+    "homebridge": ">=0.2.0",
+    "node": ">=0.12.0"
+  },
+  "homepage": "https://github.com/Paulraita/homebridge-relays#readme",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "praita",
+      "email": "p.raita@yandex.com"
+    }
+  ],
+  "name": "homebridge-relays-delay",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Paulraita/homebridge-relays.git"
+  },
+  "version": "0.0.1"
+}

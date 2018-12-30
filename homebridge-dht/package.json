@@ -1,0 +1,100 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "homebridge-dht",
+        "scope": null,
+        "escapedName": "homebridge-dht",
+        "name": "homebridge-dht",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/pi"
+    ]
+  ],
+  "_from": "homebridge-dht@latest",
+  "_id": "homebridge-dht@0.1.22",
+  "_inCache": true,
+  "_location": "/homebridge-dht",
+  "_nodeVersion": "6.11.5",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/homebridge-dht_0.1.22_1520205132167_0.884295218304076"
+  },
+  "_npmUser": {
+    "name": "northernman",
+    "email": "buyminivan-northern@yahoo.ca"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "homebridge-dht",
+    "scope": null,
+    "escapedName": "homebridge-dht",
+    "name": "homebridge-dht",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/homebridge-dht/-/homebridge-dht-0.1.22.tgz",
+  "_shasum": "444bc0044459d1d34cb19d953611bdb32088be8e",
+  "_shrinkwrap": null,
+  "_spec": "homebridge-dht",
+  "_where": "/home/pi",
+  "author": {
+    "name": "NorthernMan54"
+  },
+  "bugs": {
+    "url": "https://github.com/NorthernMan54/homebridge-dht/issues"
+  },
+  "dependencies": {
+    "debug": "^2.6.9",
+    "fakegato-history": "^=0.4.0",
+    "mcuiot-logger": "0.0.6",
+    "moment": "^2.20.1"
+  },
+  "description": "Homebridge accessory plugin that support's connecting a dht22 Temperature/Humidity Sensor to a Raspberry PI.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "444bc0044459d1d34cb19d953611bdb32088be8e",
+    "tarball": "https://registry.npmjs.org/homebridge-dht/-/homebridge-dht-0.1.22.tgz",
+    "fileCount": 9,
+    "unpackedSize": 29066
+  },
+  "engines": {
+    "homebridge": ">=0.2.0",
+    "node": ">=0.12.0"
+  },
+  "gitHead": "0bf8e36dde2674d3dca0911e1722285508392c15",
+  "homepage": "https://github.com/NorthernMan54/homebridge-dht#readme",
+  "keywords": [
+    "nodemcu",
+    "dht22",
+    "homebridge",
+    "homebridge-plugin"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "northernman",
+      "email": "buyminivan-northern@yahoo.ca"
+    }
+  ],
+  "name": "homebridge-dht",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NorthernMan54/homebridge-dht.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.22"
+}
