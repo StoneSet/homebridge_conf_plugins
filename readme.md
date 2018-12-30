@@ -3,7 +3,7 @@
 
 # Homebridge - Plugins & Conf
 <div align="center" color="#0094D2">
-	<img src="https://github.com/StoneSet/homebridge_conf_plugins/img/project.JPG" height="180" alt="" /><br><br>
+	<img src="https://raw.githubusercontent.com/StoneSet/homebridge_conf_plugins/master/img/project.JPG" height="180" alt="" /><br><br>
 
     Homebridge controller based on raspberry pi
 </div>
@@ -14,7 +14,7 @@
 
 ### **Schematics**
 
-![alt text](https://github.com/StoneSet/homebridge_conf_plugins/img/schematics.png "Screenshot du pcb THT")
+![alt text](https://raw.githubusercontent.com/StoneSet/homebridge_conf_plugins/master/img/shematics.png "Screenshot du pcb THT")
 ### **Software**
 1. Install homebridge
 2. Clone this repo and drag `homebridge-relays-delay` & `homebridge-relays-delay`in `/usr/lib/node_modules`
