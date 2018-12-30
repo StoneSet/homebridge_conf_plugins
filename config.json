@@ -1,9 +1,9 @@
-
-"bridge": {
-    "name": "RelayChambre",
-    "username": "CC:22:3D:E3:CE:40",
-    "port": 51824,
-    "pin": "031-25-146"
+{
+  "bridge": {
+      "name": "RelayChambre",
+      "username": "CC:22:3D:E3:CE:40",
+      "port": 51824,
+      "pin": "031-25-146"
   },
 
   "description": "RPi Chambre Relais (x4)",
@@ -13,7 +13,7 @@
       "accessory": "RelayDelay",
       "name": "Relay-1",
       "pin": 11
-    },
+    },  
     {
       "accessory": "RelayDelay",
       "name": "Relay-2",
@@ -36,7 +36,7 @@
       "name_humidity": "Humdité",
       "service": "dht22",
       "gpio": "4"
-}
+    }
 
   ],
 
